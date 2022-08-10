@@ -1,2 +1,2 @@
 "This is the first file".
-"This is edited lin  e"
+"This is edited line"
