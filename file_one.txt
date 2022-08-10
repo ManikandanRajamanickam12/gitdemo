@@ -1,2 +1,6 @@
 "This is the first file".
+<<<<<<< HEAD
 "mani"
+=======
+"This is edited lin  e"
+>>>>>>> f53ce5a555eaec87c7a5b222460213b78b5b7cda
